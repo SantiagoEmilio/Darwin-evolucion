@@ -3,79 +3,69 @@ DOM_evolucion9.innerHTML = `
 
 <header class="estru">
  <div class="v9-titulo">
-<p class="h1b2"> linea del tiempo 
-  La Evolución de los Autos</p>
+<p class="h1b2">  
+  la evolución del deporte en automóvil</p>
 </div>
 </header>
 
 <div class="v9-general">
   <div class="info100">
  
-    <h1>1. Los Primeros Autos (Finales del Siglo XIX - Principios del Siglo XX)</h1>
+    <h1> 1914: El Primer Carro Deportivo
+ </h1>
 
-    <p> 1886: Karl Benz construye el primer automóvil práctico, el Benz Patent-Motorwagen, con un motor de combustión interna.
-    1893: Los hermanos Duryea fabrican el primer automóvil a gasolina en Estados Unidos.
-    1901: Ransom Olds introduce el concepto de producción en masa con el modelo Oldsmobile Curved Dash.</p>
-    <img src="https://image.slidesharecdn.com/evoluciondeautos-130605211159-phpapp02/85/Evolucion-de-autos-2-320.jpg" alt="" class="foto100">
+    <p> Vauxhall Prince Henry Sports Torpedo: Diseñado por Laurence Pomeroy, este modelo inglés es considerado el primer carro deportivo. Contaba con una velocidad máxima de 128 km/h, un motor de 4 litros con 24 caballos de fuerza y una caja de cambios de 4 velocidades.</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Brooklands_1930.jpg/220px-Brooklands_1930.jpg" alt="" class="foto100">
  
   </div>
 
    <div class="info200">
-     <h1> La Era de la Producción en Masa (1910-1930)</h1>
+     <h1> Década de 1930: La Era de los Roadsters </h1>
  
-     <p>1913: Henry Ford revoluciona la industria automotriz con la línea de montaje en la planta de Highland Park, produciendo el Ford Model T de manera eficiente y asequible.
-      1920s: Se popularizan los vehículos cerrados y con sistemas eléctricos, incluyendo encendido eléctrico y faros.</p>
-      <img src="https://www.biografiasyvidas.com/historia/fotos/cadena_montaje_ford.jpg" alt="" class="foto200">
+     <p>Roadsters: Comienza a popularizarse este tipo de carros deportivos descapotables, diseñados para dos pasajeros y con un enfoque en la velocidad y la maniobrabilidad.</p>
+      <img src="https://cdn.topgear.es/sites/navi.axelspringer.es/public/media/image/2023/06/duesenberg-model-j-3069408.jpg?tf=3840x" alt="" class="foto200">
   </div>
 
 
  <div class="info300">
-      <h1> Innovaciones y Diseño (1930-1950)</h1>
+      <h1> Década de 1950: Nacimiento de los Muscle Cars </h1>
 
-     <p>1930s: Introducción de avances en aerodinámica y confort, como la calefacción y las radios de autos.
-        1940s: La Segunda Guerra Mundial impulsa desarrollos en motores y materiales, que luego se aplican a los autos civiles.
-        1948: El Tucker 48 presenta innovaciones de seguridad como el parabrisas inastillable y el cinturón de seguridad.</p>
-        <img src="https://img.remediosdigitales.com/a20c9a/xataka_01_evolucion/1366_2000.jpg" alt="" class="foto300">
+     <p>Muscle Cars: Surge en Estados Unidos una nueva categoría de carros deportivos con motores potentes y carrocerías robustas, como el Ford Mustang y el Chevrolet Camaro. Estos vehículos eran accesibles en precio y ofrecían altas prestaciones.</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6drPO3n7rafZ90JPNv6yWyyrSgCXOrJ_dtw&s" alt="" class="foto300">
  </div>
 
 
    <div class="info400">
-      <h1>4. La Era Dorada y el Auge de la Potencia (1950-1970)</h1>
+      <h1>Década de 1960: Introducción de los Superdeportivos </h1>
 
-      <p>1950s: Nace la cultura del automóvil en Estados Unidos, con autos más grandes y potentes. Se introducen cinturones de seguridad y frenos de disco.
-        1960s: Aparecen los autos deportivos y muscle cars. El Ford Mustang y el Chevrolet Camaro se vuelven íconos.
-        1970: La crisis del petróleo lleva a la creación de autos más pequeños y eficientes en consumo de combustible.</p>
-        <img src="https://www.portalautomotriz.com/sites/portalautomotriz.com/files/media/photos/clasico.jpg" alt="" class="foto400">
+      <p>Lamborghini Miura: Introducido en 1966, se considera el primer superdeportivo, con un motor V12 y un diseño innovador que influyó en la industria automotriz.</p>
+        <img src="https://img.remediosdigitales.com/59c29a/lamborghini-miura-p400/1366_2000.jpg" alt="" class="foto400">
    </div>
 
     <div class="info500">
-      <h1>5. Seguridad y Eficiencia (1980-2000)</h1>
+      <h1> Década de 1970: El Auge de los Gran Turismo </h1>
 
-      <p>1980s: Se desarrollan sistemas de seguridad avanzados como el airbag y los frenos ABS.
-        1990s: Aumenta el enfoque en la eficiencia de combustible y las bajas emisiones. Toyota lanza el Prius, el primer vehículo híbrido de producción masiva.</p>
-       <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/sa93b837186f9691f/image/id9e04109a3736f58/version/1554819444/image.jpg" alt="" class="foto500">
+      <p>Gran Turismo (GT): Esta categoría agrupa a carros deportivos más grandes y cómodos, diseñados para viajes largos en autopista. Ejemplos incluyen el Ferrari 365 GTB/4 y el Aston Martin V8.</p>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzN1_QG9lcG0Wl5gaqsMunBMKakzfIZzBHcw&s" alt="" class="foto500">
+   
     </div>
 
  <div class="info600">
-      <h1> 6 La Era de la Tecnología y la Sostenibilidad (2000-Presente)</h1>
+      <h1> Década de 1990: Innovaciones en Electrónica y Aerodinámica</h1>
 
-     <p>2000s: La tecnología digital transforma los autos, introduciendo GPS, sistemas de infoentretenimiento y conectividad.
-        2010s: Avances en vehículos eléctricos (EV) con empresas como Tesla liderando el mercado. Aumento de las tecnologías autónomas y de asistencia al conductor (ADAS).
-        2020s: Crecimiento de la movilidad sostenible y los vehículos eléctricos. Se intensifica el desarrollo de autos autónomos y se exploran nuevas formas de energía como el hidrógeno.</p>
-        <img src="https://upinforma.com/nuevo/images/libros/IMG_20230402_224632_049.jpg" alt="" class="foto600">
+     <p>Electrónica y Aerodinámica: Los carros deportivos comienzan a integrar más tecnología, como sistemas de control de tracción y aerodinámica avanzada, mejorando tanto el rendimiento como la seguridad.</p>
+        <img src="https://www.avtotachki.com/wp-content/uploads/2021/03/7-4.jpg" alt="" class="foto600">
  </div>
 
  <div class="info700">
-     <h1> Tendencias Futuras</h1>
+     <h1> 2000 - 2010: Evolución de Motores y Transmisiones </h1>
 
-     <p>Autos Autónomos: Vehículos que pueden conducirse sin intervención humana utilizando inteligencia artificial y sensores avanzados.
-        Movilidad Compartida: Modelos de negocio basados en compartir vehículos, como carsharing y ridesharing.
-        Sostenibilidad: Autos eléctricos de mayor autonomía, cargadores rápidos y uso de materiales reciclables y biodegradables en la fabricación.</p>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT--sFMf22MqH4whr8doqwj9pqjhUwGP206ig&s" alt="" class="foto700">
+     <p>Motores y Transmisiones: Se popularizan los motores V6 en lugar de los tradicionales V8 o V10, así como las transmisiones automáticas que permiten cambios de marcha más rápidos y precisos.</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi16hgS3Y2Zfvq9ql59iLzu6yDOmH3fyNBZA&s" alt="" class="foto700">
     </div>
 
     <div class="final00">
-        <h1>La evolución de los autos ha sido impulsada por la necesidad de mejorar la eficiencia, la seguridad, la comodidad y la sostenibilidad. Desde sus humildes comienzos hasta los sofisticados vehículos de hoy, los autos continúan siendo una parte integral de nuestra vida cotidiana y un área vibrante de innovación tecnológica.</h1>
+        <h1>Autónomos y Sostenibles: La industria se dirige hacia carros deportivos que combinan conducción autónoma con motores eléctricos avanzados, manteniendo el enfoque en la velocidad y el rendimiento, pero con un menor impacto ambiental.</h1>
         <img src="https://i.pinimg.com/736x/e7/6b/db/e76bdb2050d6dcb420fd05451f6db0ee.jpg" alt="" class="foto">
     </div>
 </div>
